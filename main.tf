@@ -4,7 +4,7 @@ terraform {
     organization = "Terraform_Demo_Organization" 
 
     workspaces { 
-      name = "tfcDemo" 
+      name = "tfcGitProject" 
     } 
   }
  required_providers {
